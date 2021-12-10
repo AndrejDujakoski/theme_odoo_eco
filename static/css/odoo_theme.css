@@ -1,0 +1,13 @@
+.dropdown-item {
+  color: #ff5000 !important;
+  // changes color of the TOP NAVBAR items in dropdown
+  // this gives some orange color
+}
+
+.o_main_navbar {
+  border: 1px solid #000;
+  background-color: #00438a;
+  -webkit-box-shadow: Opx Opx 8px #00438a;
+  box-shadow: Opx Opx 8px #00438a;
+  }
+
